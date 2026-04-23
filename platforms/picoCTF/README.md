@@ -1,45 +1,59 @@
 # 🧩 picoCTF Writeups
 
-Thư mục này chứa các write-up khi mình giải các challenge trên nền tảng picoCTF.
+> 📌 Nơi lưu lại quá trình học và giải các challenge trên picoCTF
+
+---
 
 ## 🎯 Mục tiêu
 
-* Làm quen với các dạng bài CTF cơ bản
-* Rèn luyện tư duy phân tích và khai thác lỗ hổng
-* Ghi lại kiến thức để ôn tập và phát triển lâu dài
+* 🔹 Làm quen với các dạng bài CTF cơ bản
+* 🔹 Rèn luyện tư duy phân tích & khai thác lỗ hổng
+* 🔹 Xây dựng nền tảng cho Cyber Security
+
+---
 
 ## 📚 Nội dung
 
-Các bài được chia theo từng dạng:
+Các write-up được phân loại theo:
 
-* Web Exploitation
-* Cryptography
-* Forensics
-* General Skills
+| Category     | Mô tả                  |
+| ------------ | ---------------------- |
+| 🌐 Web       | SQLi, XSS, Auth Bypass |
+| 🔐 Crypto    | Caesar, RSA, Encoding  |
+| 🧪 Forensics | File, Steganography    |
+| 🛠 General   | Kỹ năng cơ bản         |
 
-## 📝 Cách viết write-up
+---
+
+## 📝 Cấu trúc write-up
 
 Mỗi bài sẽ bao gồm:
 
-* Phân tích đề bài
-* Quá trình thử và sai
-* Cách giải chi tiết
-* Kiến thức rút ra
+* 🔍 **Phân tích đề bài**
+* ⚙️ **Quá trình khai thác**
+* 🏁 **Flag**
+* 📚 **Kiến thức rút ra**
+
+---
 
 ## 📈 Tiến độ học
 
-* [ ] Web
-* [ ] Crypto
-* [ ] Forensics
-* [ ] Reverse
+* [ ] 🌐 Web
+* [ ] 🔐 Crypto
+* [ ] 🧪 Forensics
+* [ ] ⚙️ Reverse
+
+---
 
 ## ⚠️ Lưu ý
 
-* Write-up chỉ phục vụ mục đích học tập
-* Không đăng lời giải khi CTF đang diễn ra
-* Tôn trọng luật của nền tảng picoCTF
+> ❗ Write-up chỉ phục vụ mục đích học tập
+> ❗ Không đăng lời giải khi CTF đang diễn ra
+> ❗ Tuân thủ luật của picoCTF
+
+---
 
 ## 🚀 Ghi chú
 
-Đây là giai đoạn mình bắt đầu học CTF, nên các write-up có thể còn thiếu sót.
+Đây là giai đoạn mình bắt đầu học CTF, nên có thể còn thiếu sót.
 Sẽ cập nhật và cải thiện dần theo thời gian.
